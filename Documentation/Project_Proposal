@@ -1,0 +1,102 @@
+Predicting Movie Genre
+
+Objective:
+To classify movies into particular genre, listed in the Appendix, by analyzing the different attributes of movies and the reviews by past viewers.
+
+Data Sources:
+IMDB
+
+Outline of the steps:
+Designing, planning and creating timelines for the project. Collect data by web scraping. 
+Data cleaning, transformation,segmentation and error reduction.
+Summarizing and grouping the data. Exploring relationships and feature extraction. Creating models. Model selection based on various metrics.
+Deploy the model for future predictions. Generate the final visualizations and reports with business impacts.
+
+Effectiveness Criteria of the project:
+Simplicity and Robustness.
+Speed and computational cost.
+Cross Validation and Bootstrapping results.
+Contingency Tables.
+Business and social impact.
+
+Final deliverables:
+Clean usable dataset, project report.
+IPYNB file with the code used throughout the project, declared with various statistical models tried and the best selected model.
+Confusion metrics, other success metrics used to choose best statistical model.
+Web Scraping code to aggregate dataset.
+
+Team Members:
+Vinod Rao	(A20369838)
+Harshaa Bajaj (A20378813)
+Appendix:
+
+Sl. No.
+Genre
+Sub-Genre
+1
+Action
+Comedy | Crime | Thriller
+2
+Adventure
+Biography | Thriller | War
+3
+Animation
+Adventure | Comedy | Family | Fantasy
+4
+Biography
+Crime | Mystery | Sport
+5
+Comedy
+Action | Horror | Romance
+6
+Crime
+Drama | Mystery | Romance
+7
+Documentary
+Biography | Comedy | Crime | History
+8
+Drama
+Romance | Film-Noir | Musical | War
+9
+Family
+Adventure | Comedy | Fantasy | Romance
+10
+Fantasy
+Adventure | Comedy | Drama | Romance
+11
+Film-Noir
+Crime | Mystery | Romance | Thriller
+12
+History
+Adventure | Biography | Drama | War
+13
+Horror
+Comedy | Drama | Sci-Fi
+14
+Music
+Biography | Documentary | Drama
+15
+Musical
+Comedy | History | Romance
+16
+Mystery
+Adventure | Comedy | Thriller
+17
+Romance
+Comedy | Crime | History | Thriller
+18
+Sci-Fi
+Animation | Comedy | Family | Horror
+19
+Sport
+Biography | Comedy | Documentary
+20
+Thriller
+Comedy | Crime | Horror | Mystery
+21
+War
+Action | Biography | Comedy | Documentary
+22
+Western
+Action | Adventure | Comedy
+
